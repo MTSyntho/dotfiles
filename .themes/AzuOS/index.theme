@@ -1,0 +1,9 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=AzuOS
+Comment=AzuOS Desktop
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=AzuOS-Default
+ButtonLayout=close,minimize,maximize:menu
